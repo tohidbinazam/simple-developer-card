@@ -149,9 +149,9 @@ const Developers = () => {
                                     </div>
                                     <div className="my-2">
                                         <label>Gender</label><br/>
-                                        <input type="radio" name="gender" id="male" value="Male" onChange={ e => setInput({ ...input, gender: e.target.value })}/>
+                                        <input type="radio" name="gender" id="male" value="Male" onClick={ e => setInput({ ...input, gender: e.target.value })}/>
                                         <label htmlFor="male">Male</label>&nbsp; &nbsp;
-                                        <input type="radio" name="gender" id="female" value="Female" onChange={ e => setInput({ ...input, gender: e.target.value })}/>
+                                        <input type="radio" name="gender" id="female" value="Female" onClick={ e => setInput({ ...input, gender: e.target.value })}/>
                                         <label htmlFor="female">Female</label>
                                     </div>
                                     <div className="my-2">

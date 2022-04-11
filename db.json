@@ -43,6 +43,28 @@
       "phone": "+8801975259648",
       "gender": "Male",
       "photo": "https://www.team.gsamdani.com/wp-content/uploads/2016/05/tm6.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tarin",
+      "email": "Tarin@gmail.com",
+      "uName": "Tarin96",
+      "birth": "2022-04-02",
+      "location": "Dhaka",
+      "phone": "+8801994249463",
+      "gender": "Female",
+      "photo": "https://www.team.gsamdani.com/wp-content/uploads/2016/05/tm7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Tohid",
+      "email": "tasnime@gmail.com",
+      "uName": "tofa",
+      "birth": "2022-04-16",
+      "location": "Chittagong",
+      "phone": "+8801994249463",
+      "gender": "Female",
+      "photo": ""
     }
   ]
 }
