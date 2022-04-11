@@ -1,0 +1,70 @@
+{
+  "devs": [
+    {
+      "id": 2,
+      "name": "Tohid",
+      "email": "tohid@gmail.com",
+      "uName": "tohidbi1",
+      "birth": "2022-04-16",
+      "location": "Khulna",
+      "phone": "+8801994249463",
+      "gender": "Male",
+      "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-10.png"
+    },
+    {
+      "id": 3,
+      "name": "Tasnime",
+      "email": "tasnime@gmail.com",
+      "uName": "tasnime",
+      "birth": "2022-04-29",
+      "location": "Chittagong",
+      "phone": "+8801994249463",
+      "gender": "Female",
+      "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-12.png"
+    },
+    {
+      "id": 4,
+      "name": "Tohid",
+      "email": "tohidbinazamsunny1@gmail.com",
+      "uName": "Tohidbi1",
+      "birth": "2022-04-08",
+      "location": "Chittagong",
+      "phone": "01994249463",
+      "gender": "Male",
+      "photo": ""
+    },
+    {
+      "id": 7,
+      "name": "Tohid",
+      "email": "tohidbinazamsunny1@gmail.com",
+      "uName": "Tohidbi1",
+      "birth": "2022-04-23",
+      "location": "Chittagong",
+      "phone": "01994249463",
+      "gender": "Female",
+      "photo": ""
+    },
+    {
+      "id": 8,
+      "name": "Tohid",
+      "email": "tohidbinazamsunny1@gmail.com",
+      "uName": "Tohidbi1",
+      "birth": "2022-04-30",
+      "location": "Chittagong",
+      "phone": "01994249463",
+      "gender": "Male",
+      "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-10.png"
+    },
+    {
+      "id": 9,
+      "name": "Tohid",
+      "email": "tohidbinazamsunny1@gmail.com",
+      "uName": "Tohidbi1",
+      "birth": "2022-05-06",
+      "location": "Khulna",
+      "phone": "01994249463",
+      "gender": "Female",
+      "photo": ""
+    }
+  ]
+}
