@@ -1,70 +1,48 @@
 {
   "devs": [
     {
-      "id": 2,
-      "name": "Tohid",
-      "email": "tohid@gmail.com",
-      "uName": "tohidbi1",
-      "birth": "2022-04-16",
-      "location": "Khulna",
-      "phone": "+8801994249463",
-      "gender": "Male",
-      "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-10.png"
-    },
-    {
-      "id": 3,
+      "id": 1,
       "name": "Tasnime",
       "email": "tasnime@gmail.com",
       "uName": "tasnime",
-      "birth": "2022-04-29",
-      "location": "Chittagong",
-      "phone": "+8801994249463",
+      "birth": "2005-01-01",
+      "location": "Khulna",
+      "phone": "+8801938403436",
       "gender": "Female",
-      "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-12.png"
+      "photo": "https://www.team.gsamdani.com/wp-content/uploads/2016/05/tm2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tohid",
+      "email": "tohid@gmail.com",
+      "uName": "Tohidbi1",
+      "birth": "2005-01-01",
+      "location": "Barisal",
+      "phone": "+8801994249463",
+      "gender": "Male",
+      "photo": "https://www.team.gsamdani.com/wp-content/uploads/2016/05/tm3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tofa",
+      "email": "tofa@outlook.com",
+      "uName": "tofa",
+      "birth": "2022-04-01",
+      "location": "Mymensingh",
+      "phone": "+8801975963675",
+      "gender": "Female",
+      "photo": ""
     },
     {
       "id": 4,
-      "name": "Tohid",
-      "email": "tohidbinazamsunny1@gmail.com",
-      "uName": "Tohidbi1",
-      "birth": "2022-04-08",
-      "location": "Chittagong",
-      "phone": "01994249463",
+      "name": "Jafir",
+      "email": "Jafir@gmail.com",
+      "uName": "jafir47",
+      "birth": "2007-03-01",
+      "location": "Rangpur",
+      "phone": "+8801975259648",
       "gender": "Male",
-      "photo": ""
-    },
-    {
-      "id": 7,
-      "name": "Tohid",
-      "email": "tohidbinazamsunny1@gmail.com",
-      "uName": "Tohidbi1",
-      "birth": "2022-04-23",
-      "location": "Chittagong",
-      "phone": "01994249463",
-      "gender": "Female",
-      "photo": ""
-    },
-    {
-      "id": 8,
-      "name": "Tohid",
-      "email": "tohidbinazamsunny1@gmail.com",
-      "uName": "Tohidbi1",
-      "birth": "2022-04-30",
-      "location": "Chittagong",
-      "phone": "01994249463",
-      "gender": "Male",
-      "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-10.png"
-    },
-    {
-      "id": 9,
-      "name": "Tohid",
-      "email": "tohidbinazamsunny1@gmail.com",
-      "uName": "Tohidbi1",
-      "birth": "2022-05-06",
-      "location": "Khulna",
-      "phone": "01994249463",
-      "gender": "Female",
-      "photo": ""
+      "photo": "https://www.team.gsamdani.com/wp-content/uploads/2016/05/tm6.jpg"
     }
   ]
 }

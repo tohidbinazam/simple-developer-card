@@ -30,6 +30,21 @@ const Developers = () => {
     // Get all input data
     const { name, email, uName, birth, location, phone, gender, photo } = input;
 
+    // Reset data
+    const handleReset = () => {
+        setInput({
+            id : '',
+            name : '',
+            email : '',
+            uName : '',
+            birth : '',
+            location : '',
+            phone : '',
+            gender : '',
+            photo : '',
+        })
+    }
+
     // Handel form submit
     const handleFormSubmit = (e) => {
         e.preventDefault()
@@ -43,12 +58,6 @@ const Developers = () => {
         }else{
             axios.post(`http://localhost:5050/devs`, input).then(res => {
 
-                setAlert({
-                type : 'success',
-                mas : 'Succesfully Add, Well Done.',
-                status : true
-                })
-
                 setInput({
                     id : '',
                     name : '',
@@ -61,6 +70,11 @@ const Developers = () => {
                     photo : '',
                 })
 
+                setAlert({
+                type : 'success',
+                mas : 'Succesfully Add, Well Done.',
+                status : true
+                })
             }).catch(error => {
                 console.log(error); 
             })
@@ -145,7 +159,7 @@ const Developers = () => {
                                         <input className="form-control" placeholder="Photo link" id="photo" type="url" value={ photo } onChange={ e => setInput({ ...input, photo: e.target.value })}/>
                                     </div>
                                     <div className="mt-3">
-                                        <input type="reset" style={{ width : '47%' }} className="btn btn-danger" value="Reset All" /> &nbsp;
+                                        <input type="reset" style={{ width : '47%' }} className="btn btn-danger" value="Reset All" onClick={ handleReset } /> &nbsp;
                                         <input type="submit" className="btn btn-primary w-50" value="Submit" />
                                     </div>
                                 </form>
